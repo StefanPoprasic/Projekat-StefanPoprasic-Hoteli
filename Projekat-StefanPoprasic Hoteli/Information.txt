@@ -1,0 +1,2 @@
+Web application for booking hotel rooms in Java EE environment , using Java EE technologies : Java Servlet , JavaServer Pages, JavaBeans .
+using mysql for database , GlassFish Server 4.1.1 , if have problem to start change localhost in project .
